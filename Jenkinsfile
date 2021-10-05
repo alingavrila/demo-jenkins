@@ -1,3 +1,5 @@
+@Library('demo-maven') _
+
 pipeline {
   agent any
 
